@@ -1,6 +1,7 @@
 streamlit
-transformers
+transformers<5.0.0
 torch
 pillow
 gTTS
 sentencepiece
+protobuf<5
