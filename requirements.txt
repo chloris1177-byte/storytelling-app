@@ -1,7 +1,7 @@
-streamlit
-transformers<5.0.0
+streamlit==1.38.0
+transformers==4.44.2
 torch
 pillow
 gTTS
 sentencepiece
-protobuf<5
+protobuf==4.25.3
